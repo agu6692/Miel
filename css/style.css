@@ -1,0 +1,30 @@
+*{
+    font-family:Arial, Helvetica, sans-serif;
+}
+body {
+    background: url('../images/fondo.png') repeat
+
+    
+    
+    
+}
+
+.logo{
+    padding-top: 8px;
+}
+.fixed{
+    position: fixed;
+    z-index: 100;
+}
+
+body section a{
+    text-decoration: none;
+    
+}
+
+footer a{
+    text-decoration: none;
+}
+#servicios{
+    height: 100%;
+}
